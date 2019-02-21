@@ -1,0 +1,15 @@
+{
+  'dataset': 'synthetic_horse_rotation',
+  'dataset_type': 'TEST',
+  'num_samples': 245,
+  'num_not_estimated_samples': 0,
+  'tested_epoch': 24,
+  'test_epi_sqr': 27313897.31010278,
+  'test_ssd': 3387.680474357804,
+  'test_epi_abs': 281.10402947093417,
+  'test_SIFT_epi_abs': 31.959877986667326,
+  'test_SIFT_sed': 117260.76590379803, 
+  'test_sed': 54025192.55194161,
+  'test_SIFT_ssd': 1601.27310931446,
+  'test_SIFT_epi_sqr': 4841.561808122136
+}

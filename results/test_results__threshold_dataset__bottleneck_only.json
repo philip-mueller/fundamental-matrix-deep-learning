@@ -1,0 +1,16 @@
+{
+  'dataset': 'templeSparseRing_silhouette',
+  'dataset_type': 'TRAIN',  //because it is the largest set of templeSparseRing and the model was not trained with it anyways
+  'num_samples': 192,
+  'num_not_estimated_samples': 0,
+  'tested_epoch': 25,
+  'SIFT_epi_abs': 561.9618665083738,
+  'SIFT_epi_sqr': 910115.9813299793,
+  'SIFT_sed': 10082.784607132417,
+  'SIFT_ssd': 1798.5838314177129,
+  'epi_abs': 347002.59239847405,
+  'epi_sqr': 143812754925978.3,
+  'sed': 416783561172.6119,
+  'ssd': 5047.344613241737
+}
+

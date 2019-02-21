@@ -1,0 +1,14 @@
+{
+  'dataset': 'templeSparseRing',
+  'dataset_type': 'TRAIN', //because it is the largest set of templeSparseRing
+  'num_samples': 192,
+  'num_not_estimated_samples': 45,
+  'SIFT_epi_abs': 13.05179330737386,
+  'SIFT_epi_sqr': 1894.7790554192097,
+  'SIFT_sed': 3753.0751198112266,
+  'SIFT_ssd': 623.2963745379316,
+  'epi_abs': 6993.262765131074,
+  'epi_sqr': 296636134149.1446,
+  'sed': 754462091495.87,
+  'ssd': 2965.1996901590546
+}

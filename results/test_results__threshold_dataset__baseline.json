@@ -1,0 +1,14 @@
+{
+  'dataset': 'templeSparseRing_silhouette',
+  'dataset_type': 'TRAIN',
+  'num_samples': 192,
+  'num_not_estimated_samples': 50,
+  'SIFT_epi_abs': 19.40557162722205,
+  'SIFT_epi_sqr': 25359.12870273428,
+  'SIFT_sed': 2965.4640048360384,
+  'SIFT_ssd': 410.88280866053674,
+  'epi_abs': 65793.20048501051,
+  'epi_sqr': 45399427183860.65,
+  'sed': 153520665765.77368,
+  'ssd': 5449.7781786645255
+}
