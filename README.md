@@ -1,7 +1,7 @@
 # Fundamental Matrix Estimation from Multi-View Silhouette Images using Deep Learning
 
-## Why was this repository created?
-This repository was created to share the results of my interdisciplinary project (IDP) which was part of my Master's study at the Technical University Munich (TUM). All the code and documentation in this repo were created as part of this IDP.
+## Why did I create this repository?
+I created this repository to share the results of my interdisciplinary project (IDP) which was part of my Master's study at the Technical University Munich (TUM). All the code and documentation in this repo were created as part of this IDP.
 
 ## What is this project about?
 In this project a deep learning model is trained to estimate fundamental matrices for pairs of silhouette images. The model involves a GAN which is trained during predication time to learn how to represent the second input image given the first one. Then the internal weights of the generator are used as input to a trained regressor network that predicts the fundamental matrix. For details see the documentation pdf.
