@@ -18,13 +18,13 @@ It does neither contain the datasets nor the trained model weights. For creation
 
 ### Datasets
 The datasets for training the model can be created automatically using the provided Python scripts in the "dataset_utils" folder. For this use the file "dataset_preparation.ipynb" in that folder. For some of the datasets the data required for their creation is downloaded automatically. But some datasets (the synthetic datasets) require to manually download 3D-models (.ply-files) and add them to the folder "backup/3d_models" (from the root folder of the project). Some 3D-models which I used can for example be downloaded from the following pages:
-* http://graphics.im.ntu.edu.tw/~robin/courses/cg03/model/
-  ** bunny.ply
-  ** horse.ply
-* https://people.sc.fsu.edu/~jburkardt/data/ply/ply.html
-  ** airplane.ply
-  ** bid_dodge.ply
-  ** chopper.ply
-  ** galleon.ply
-  ** stratocaster.ply
-  ** street_lamp.ply
+http://graphics.im.ntu.edu.tw/~robin/courses/cg03/model/
+ * bunny.ply
+ * horse.ply
+https://people.sc.fsu.edu/~jburkardt/data/ply/ply.html
+ * airplane.ply
+ * bid_dodge.ply
+ * chopper.ply
+ * galleon.ply
+ * stratocaster.ply
+ * street_lamp.ply
